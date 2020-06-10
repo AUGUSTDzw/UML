@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-06-10T03:32:40.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="xyX3XBlDvj3sEAh3CIjn" version="13.2.1" type="github"><diagram id="n_-ZUeUnMOdS7E3PLnKU" name="Page-1">7VlLb9s4EP41RE8p9LBk+ii5dgtsE3STAE2OjERbbCjRlajY3sP+9h1K1Ft5NLXjBlhfTA6Hr/nm44zHyJ7Hu88p2UTnIqQcWUa4Q/YnZFmmYWP4UpJ9KXGwFqxTFmqlRnDF/qHVTC3NWUizjqIUgku26QoDkSQ0kB0ZSVOx7aqtBO/uuiFrOhBcBYQPpd9ZKKNSih2jkX+hbB1VO5uGHolJpawFWURCsW2J7AWy56kQsmzFuznlyniVXcp5y0dG64OlNJEvmXAfLZemc3nrXpo3lwvrJryzojOnXOWB8FxfWB9W7isL0BAMorsilZFYi4TwRSP1U5EnIVXbGNBrdL4KsQGhCcIfVMq9RpfkUoAokjHXoyvG+VxwkRY72iGheBWAPJOpuKetETfA9G4FI8PLa3tkIk8D+sSNKyci6ZrKJ/S0IdTtWxto036mIqYy3YNCSjmR7KHrLkR73brWa4CBhsbmF3AyBzhd0kCkIciuWUzh65wkOYF1XA638u9SaK1VCy1mCBsIz9DCRdhHXtGYTZHvqiHVmAwwbxBV8GwjJunVhhR23QLPj4beA00l3T1p72q0YuC+1982LDUr6kUthrrG70M0X7v59O8vXxm+uP9x8Z14f23OzszpKahDd0zetNq3aqmPju592umVi86+6iRw35t2pzVLdZtpRa+a91qgexx6HW+tIW9HYcCnpKk1fE4V2TCaLYvGXDXAK+3lkHKRiO/y7E+l27RLN2s6pBseYRs+ANtGLT15QeBKQk9lANALOMkyFhzNkM9GiZaZnBEzVbIXe6ne4ZtgcJIapTpr0ijZTs/8Jcv0rHau8MxCE6u3UEnDwUIFlPW1X4/udIDukvCMDiAG75VdUAln60QhDhBRwM9XPs4gn/P0QMzCsHh6x2jWfY4PwJuaABVvZkPeTEYcom/vg/EGDyx7nebv0LD9B8keeZCOZdjx8O/+H/4PE/7HzfvC8G9abxT/nzplP/53k+2FoxIBD1/BZaTO3guhhTBsayxZwrKoHpggf6YS9yZZP03+MODmCJCP03XySEBpp+tjfDXtYxHWPl0G8Twj/pQMwjlUBuEeL4MYRXdY2Lil2UnC3O/xphfmnFOHuWFmVr9naDFFeIF8Q//UUSUHjLwl8qdK4psIl8og8ZSyZ6rKhHrgMMIgAflcPYGgA4tgtypmZBuSdHBzf+aqauavRCLPViRmHMzjoaIKmAlgKrLUQwqKJFawaHWeBywktRrtj4/PCsDjGbiCZSR0Oz4lFonISk/wVZACrzrTjqROxemq1HXrWWVtxguAqkzur/cbqm6Nl2hmVgUbs5Dgwp5gNEPZttTxjcoyAGFpHF3reeM6jrJ/S24UnwM5vvvI+3Gy+s4wcz6nWabKxyoge9ciJOr8DJzP+PChdIxEqCeRcC62gIIqXRdPtK7cSQjxH98aswNgY7tOB5v6R87pam/DwksFTsFAnUylJCngKjBqp1//9tKudw/JxHFODcmQLxfi/QVg2+glru7RAjB0m3+Dyjyo+U/NXvwH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-10T03:33:01.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="LdpGdyvRZHCwkD2hi1Ca" version="13.2.1" type="github">
+  <diagram id="n_-ZUeUnMOdS7E3PLnKU" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="khFF15RY6R1XRE2Xdb2h-1" target="khFF15RY6R1XRE2Xdb2h-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-1" value="Record Time Manual&lt;br&gt;选择时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="khFF15RY6R1XRE2Xdb2h-2" target="Cg6u7QHLi8NkjNWaAKp--8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-2" value="星期 ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-4" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-7" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khFF15RY6R1XRE2Xdb2h-8" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Cg6u7QHLi8NkjNWaAKp--1" target="Cg6u7QHLi8NkjNWaAKp--12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--1" value="时间在StartTime 和 FinishTime 之间 ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="300" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--3" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="120" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--7" value="在现有请求基础上，将&lt;span style=&quot;font-family: consolas, &amp;quot;lucida console&amp;quot;, &amp;quot;courier new&amp;quot;, monospace; text-align: left;&quot;&gt;ActivityType发送到后台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--8" value="Message :Today is &#39;&#39;, not allowed to record time." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="275" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--12" value="Message: Time range is StartTime ~ FinishTime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="275" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg6u7QHLi8NkjNWaAKp--18" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
